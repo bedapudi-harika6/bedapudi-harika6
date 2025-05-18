@@ -1,13 +1,40 @@
-<h1 align="center">Hi 👋, I'm Bedapudi Harika</h1>
-<h3 align="center">I'm a Final Year B.Tech Student specializing in Computer Science and Engineering – Cybersecurity. 💻 Passionate about building secure, scalable full-stack applications and exploring the depths of cybersecurity.</h3>
+# 👋 Hi there, I'm Bedapudi Harika!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedapudi-harika6&label=Profile%20views&color=0e75b6&style=flat" alt="bedapudi-harika6" /> </p>
+🎓 I'm a Final Year B.Tech Student specializing in Computer Science and Engineering – Cybersecurity.  
+💻 Passionate about building secure, scalable full-stack applications and exploring the depths of cybersecurity.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedapudi-harika6" alt="bedapudi-harika6" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
+- 🔐 Cybersecurity Enthusiast | Full Stack Developer
+- 👨‍💻 Skilled in **Java**, **C**, **HTML/CSS**, **JavaScript**, **MySQL**, and more.
+- 🛡️ Interested in secure coding practices, ethical hacking, and system architecture.
+- 🧠 Always learning and experimenting with new tech, especially those that enhance security and performance.
+- 🛠️ Built projects like **image steganography** and **mental wellness apps**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Stack
+**Languages**:  
+`Java` `C` `HTML/CSS` `JavaScript(Basic)`
+
+**Frameworks**:  
+`SpringBoot(Intermediate)` 
+
+**Tools & Platforms**:  
+`Git` `GitHub` `VS Code`  `MySQL` `Linux` `Burpsuit` `Wireshark` `Nmap`
+
+**Cybersecurity  And Tech Skills**:  
+`Secure Coding` `Cryptography Basics` `Vulnerability Assessment` `OWASP Top 10` `Operating System` `Computer Networks` 
+
+---
+
+## 📫 Let's Connect!
+- 🔗 [LinkedIn](www.linkedin.com/in/
+bedapudi-harika-85a967288)
+
+- 💼 Open to internships and collaborative projects in **Full Stack Development** and **Cybersecurity**.
+
+---
+
+_“Code with purpose, secure with passion.”_
