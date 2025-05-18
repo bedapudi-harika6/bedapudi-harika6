@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Bedapudi Harika!
 
 🎓 I'm a Final Year B.Tech Student specializing in Computer Science and Engineering – Cybersecurity.  
 💻 Passionate about building secure, scalable full-stack applications and exploring the depths of cybersecurity.
@@ -26,12 +26,6 @@
 
 **Cybersecurity  And Tech Skills**:  
 `Secure Coding` `Cryptography Basics` `Vulnerability Assessment` `OWASP Top 10` `Operating System` `Computer Networks` 
-
----
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
