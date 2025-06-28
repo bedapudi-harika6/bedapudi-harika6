@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🔐 Cybersecurity Enthusiast | Full Stack Developer
-- 👨‍💻 Skilled in **Java**, **C**, **HTML/CSS**, **JavaScript**, **MySQL**, and more.
+- 👨‍💻 Skilled in **Java**, **C**, **HTML/CSS**, **JavaScript**,**SpringBoot**,**MySQL**, and more.
 - 🛡️ Interested in secure coding practices, ethical hacking, and system architecture.
 - 🧠 Always learning and experimenting with new tech, especially those that enhance security and performance.
 - 🛠️ Built projects like **image steganography** and **mental wellness apps**.
